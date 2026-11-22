@@ -3,5 +3,27 @@
     color: white;
     padding: 10px;
     margin: 6px;
-    box-shadow: 1px 2px red green;
+    box-shadow: 1px 2px 5px 4px salmon;
+}
+.red{
+    text-align: center;
+    background-color: black;
+}
+.box{
+    font-weight: bold;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 8px;
+}
+.center{
+    font-weight: bold;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 8px;
+}
+.last{
+    background-color: blueviolet;
+    font-weight: bold;
+    padding: 10px;
+    margin: 8px;
 }
